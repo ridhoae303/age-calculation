@@ -10,7 +10,7 @@ Nothing crazy, just a small project I tweaked because I was bored.
 - Realtime current date option
 - Manual date input
 - Auto day limit adjustment
-- Basic server request test
+- Basic server request
 - Simple GUI using Tkinter
 
 ## Requirements
