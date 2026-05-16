@@ -20,7 +20,7 @@ Nothing crazy, just a small project I tweaked because I was bored.
 ## Run
 
 ```python
-python "Age Calculator.py"
+python "AgeCalculator.py"
 ```
 
 ## Notes
