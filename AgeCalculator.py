@@ -16,7 +16,7 @@ class Tanggal:
         if referensi is None:
             referensi = date.today()
         if referensi < self.date:
-            raise ValueError("Tanggal referensi gak boleh lebih awal dari tanggal lahir bjir")
+            raise ValueError("Tanggal referensi gak boleh lebih awal dari tanggal lahir")
 
         tahun = referensi.year - self.date.year
         bulan = referensi.month - self.date.month
@@ -107,7 +107,7 @@ def hitung_umur():
             var_status_server.set("")
 
     except (ValueError, tk.TclError):
-        var_hasil.set("Ini apaan anjay, tanggal gak valid lah!")
+        var_hasil.set("Ini apaan? tanggal gak valid lah!")
         var_status_server.set("")
 
 
