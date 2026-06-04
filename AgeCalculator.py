@@ -1,4 +1,4 @@
-# Enchanted by ridhoae303
+# Enchanted by ridhoae303 — https://github.com/ridhoae303
 # I was just bored, so I tweaked this script to make it more interesting.
 
 import tkinter as tk
