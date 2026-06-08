@@ -23,6 +23,10 @@ Nothing crazy, just a small project I tweaked because I was bored.
 python "AgeCalculator.py"
 ```
 
+## Purpose
+
+I don’t really know, I’m confused too. But hopefully it’ll be useful for someone who wants to learn.
+
 ## Notes
 
 Yeah, the error messages are intentionally dumb.
